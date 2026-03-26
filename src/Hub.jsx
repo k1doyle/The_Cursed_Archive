@@ -25,8 +25,8 @@ const modules = [
     title: "Odyssey Mode",
     description: "Choose your own adventure through Greek mythology.",
     icon: "⚔️",
-    status: "coming-soon",
-    path: null,
+    status: "ready",
+    path: "/odyssey",
     gradient: "linear-gradient(135deg, #990022 0%, #220011 100%)",
   },
   {
